@@ -1,1 +1,0 @@
-# Collective_Intelligence-with-python
